@@ -30,7 +30,9 @@ Explore o mundo Porsche e encontre seu modelo dos sonhos! ️
 
 **Contato**
 Instagram: @gabrieln.santana
+
 Linkedin: Gabriel N. Santana
+
 Discord: Gabriel GNS
 
 Obrigado por visitar a aplicação web! 🚀
