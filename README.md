@@ -18,16 +18,6 @@ Já imaginou ter todos os modelos Porsche na palma da sua mão? Com o Porsche Ga
 * **CSS:** O estilo que deixa tudo bonito e organizado.
 * **JavaScript:** A mágica por trás da busca, deixando a experiência dinâmica e interativa.
 
-**Como usar:**
-
-1. **Clone o repositório:** Faça um fork deste projeto para o seu GitHub e clone-o localmente.
-2. **Abra o index.html:** Dê uma olhada no código e veja como tudo funciona.
-3. **Personalize:** Sinta-se à vontade para adicionar novos modelos, modificar o design ou até mesmo criar novas funcionalidades.
-
-**Contribua:**
-
-Quer ajudar a melhorar o Porsche Garage? Abra um pull request com suas sugestões! Toda ajuda é bem-vinda!
-
 **Aviso:**
 
 Este projeto é apenas um exemplo e não possui nenhum vínculo oficial com a Porsche. Os dados utilizados são fictícios e servem apenas para fins ilustrativos.
@@ -41,6 +31,7 @@ Explore o mundo Porsche e encontre seu modelo dos sonhos! ️
 **Contato**
 Instagram: @gabrieln.santana
 Linkedin: Gabriel N. Santana
+Discord: Gabriel GNS
 
 Obrigado por visitar a aplicação web! 🚀
 
