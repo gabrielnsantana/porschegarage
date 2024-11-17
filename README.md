@@ -42,8 +42,8 @@ Instagram: @gabrieln.santana
 
 Linkedin: Gabriel N. Santana
 
-Discord: Gabriel GNS
+Discord: [Gabriel GNS](https://discord.gg/VEYUK6g2Q6)
 
 Obrigado por visitar a aplicação web! 🚀
 
-2024 - Gabriel Nunes Santana, GNS
+© 2024 - Gabriel Nunes Santana, GNS
